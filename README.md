@@ -17,7 +17,7 @@ Follow the steps below to submit your solution.
 Click the **Fork** button at the top-right of this repository, or use the link below:
 
 ```bash
-https://github.com/mulearngectcr/fastapi-todo-validation
+https://github.com/mulearngectcr/fastapi-todo-pydantic-validation
 ```
 
 This will create a copy of the repository under your GitHub account.
@@ -27,8 +27,8 @@ This will create a copy of the repository under your GitHub account.
 Replace `<your-username>` with your GitHub username:
 
 ```bash
-git clone https://github.com/<your-username>/fastapi-todo-validation.git
-cd fastapi-todo-validation
+git clone https://github.com/<your-username>/fastapi-todo-pydantic-validation.git
+cd fastapi-todo-pydantic-validation
 ```
 
 ### 3. Create a Folder with Your Name
@@ -38,7 +38,7 @@ Inside the repo, create a new folder named after you.
 Your folder structure should look like this:
 
 ```bash
-fastapi-todo-validation/
+fastapi-todo-pydantic-validation/
 └── john-doe/
   ├── main.py
   ├── requirements.txt
@@ -114,7 +114,7 @@ git push origin main
 
 1. Go to your fork on GitHub
 2. Click **Contribute → Open Pull Request**
-3. Make sure the PR is directed from your fork to `mulearngectcr/fastapi-todo-validation`
+3. Make sure the PR is directed from your fork to `mulearngectcr/fastapi-todo-pydantic-validation`
 4. Set the PR title to: `Submission - John Doe` (replace with your name)
 5. Click **Create Pull Request**
 
